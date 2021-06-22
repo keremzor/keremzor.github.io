@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://keremzor.github.io/sitemap.xml
+Host: https://keremzor.github.io
